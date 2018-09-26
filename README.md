@@ -1,4 +1,4 @@
-[!MongoDB Stitch API in 10 Minutes](https://cdn-images-1.medium.com/max/800/1*6CLtZEbUdqbPViengE03og.png)
+![MongoDB Stitch API in 10 Minutes](https://cdn-images-1.medium.com/max/800/1*6CLtZEbUdqbPViengE03og.png)
 # Creating a Data API in 10 minutes with MongoDB Stitch
 
 This repository accompanies a video which walks through the process of creating a data endpoint API using MongoDB Stitch. 
