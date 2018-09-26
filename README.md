@@ -29,4 +29,3 @@ Next, make the scripts executable:
 > chmod +x export
 ```
 
-Tweet
