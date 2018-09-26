@@ -6,6 +6,9 @@ Check out the accompanying video on [Youtube](https://www.youtube.com/watch?v=WB
 
 [![Creating a Data API in 10 minutes with MongoDB Stitch](https://img.youtube.com/vi/WBEzGFpAnhY/0.jpg)](https://www.youtube.com/watch?v=WBEzGFpAnhY)
 
+## Article
+[Read the blog article](https://medium.com/@michael.lynn/creating-a-data-enabled-api-in-10-minutes-with-mongodb-stitch-6d23578fed6d) that explains how to create an API in 10 minutes (or less)
+
 ## Requirements
 IF you want to follow along, you will need the following:
 
