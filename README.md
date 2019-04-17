@@ -33,3 +33,19 @@ Next, make the scripts executable:
 > chmod +x export
 ```
 
+## Importing Data Into Your Cluster
+
+Any application needs data, right? Well - importing data into MongoDB is super simple. I've made it even simpler with a script and an example data file. Check `contacts.csv` for an example data file and take a look at [import.sh](./import.sh) - this is a script I wrote which automates the process of importing data into your cluster. You'll need to create a .env file with values for the following:
+
+```
+CLUSTER=clustername-shard-0/clustername-shard-00-00-pmvyt.mongodb.net:27017,clustername-shard-00-01-pmvyt.mongodb.net:27017,clustername-shard-00-02-pmvyt.mongodb.net:27017
+FILENAME=contacts.csv
+DATABASE=hackathon
+COLLECTION=contacts
+USER=workshop
+PASSWORD=workshop123
+```
+
+The `CLUSTER` variable can be found in your Atlas console - click the `CONNECT` button and you'll see an option for `COMMAND LINE TOOLS`. Click that button to see a list of command line tools - one of them being `mongoimport`. Look at the detail there and you'll find the CLUSTER reference. Copy/Paste that into the .env file as the value for the `CLUSTER` variable.
+
+Next, make sure the values for `DATABASE`, `COLLECTION`, `USER`, and `PASSWORD` match your specific installation and you should be good to go.
