@@ -1,6 +1,8 @@
 ![MongoDB Stitch API in 10 Minutes](https://cdn-images-1.medium.com/max/800/1*6CLtZEbUdqbPViengE03og.png)
 # Creating a Data API in 10 minutes with MongoDB Stitch
 
+If you're reading this and getting ready for the [MongoDB World Hackathon](https://mongodbworld19.devpost.com), you'd better get moving - not much time left! Fortunately, creating an app is super simple and shouldn't take long. An important part of any application is an API that exposes data. I'm going to show you how to create that very quickly with MongoDB Stitch.
+
 This repository accompanies a video which walks through the process of creating a data endpoint API using MongoDB Stitch. 
 
 Check out the accompanying video on [Youtube](https://www.youtube.com/watch?v=WBEzGFpAnhY).
