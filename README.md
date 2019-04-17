@@ -1,3 +1,4 @@
+![MongoDB Stitch API in 10 Minutes](https://cdn-images-1.medium.com/max/800/1*6CLtZEbUdqbPViengE03og.png)
 # Creating a Data API in 10 minutes with MongoDB Stitch
 
 This repository accompanies a video which walks through the process of creating a data endpoint API using MongoDB Stitch. 
@@ -5,6 +6,9 @@ This repository accompanies a video which walks through the process of creating 
 Check out the accompanying video on [Youtube](https://www.youtube.com/watch?v=WBEzGFpAnhY).
 
 [![Creating a Data API in 10 minutes with MongoDB Stitch](https://img.youtube.com/vi/WBEzGFpAnhY/0.jpg)](https://www.youtube.com/watch?v=WBEzGFpAnhY)
+
+## Article
+[Read the blog article](https://medium.com/@michael.lynn/creating-a-data-enabled-api-in-10-minutes-with-mongodb-stitch-6d23578fed6d) that explains how to create an API in 10 minutes (or less)
 
 ## Requirements
 IF you want to follow along, you will need the following:
