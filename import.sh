@@ -8,4 +8,4 @@ USER=youruserid
 PASSWORD=yourpassword
 source .env
 
-mongoimport --host ${CLUSTER} --ssl --username yourcluster --password ${PASSWORD} --authenticationDatabase admin --db ${DATABASE} --collection ${COLLECTION} --type csv --file ${FILENAME} --headerline
+mongoimport --host ${CLUSTER} --ssl --username ${USER} --password ${PASSWORD} --authenticationDatabase admin --db ${DATABASE} --collection ${COLLECTION} --type csv --file ${FILENAME} --headerline
